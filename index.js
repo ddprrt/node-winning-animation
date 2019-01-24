@@ -191,5 +191,4 @@ function drawWinner(animation) {
   setTimeout(winnerAnim.stop, 5000)
 }
 
-
 setTimeout(() => draw(0, null), 80)
